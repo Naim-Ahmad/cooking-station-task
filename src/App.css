@@ -1,0 +1,20 @@
+.bg-light-dark {
+  background-color: #363740;
+}
+
+.nav-text {
+  color: #a4a6b3 !important;
+}
+
+.active {
+  background: #3e4049;
+  color: #a4a6b3;
+  border-left: 15px solid white;
+  padding-left: 10px !important;
+}
+
+.summary-status {
+  background-image: conic-gradient(red, red);
+  width: 100px;
+  height: 100px;
+}
